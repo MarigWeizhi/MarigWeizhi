@@ -1,4 +1,9 @@
 ## Hi there 👋
+   
+| Personal Profile                                                                                                                                                                                                                                                                                                                                             | Dashboard Data                                                                                                                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| __Hi, I am Marig_Weizhi 📫__<br/><br/>⚡ I'm studying at East China Normal University.<br/>  ✨ I'm interested in big data.<br/> 🌱 Here is my [CSDN](https://blog.csdn.net/qq_45613838) blog.<br/> 💬 Feel free to contact me. marig.weizhi@foxmail.com<br/> | [![MarigWeizhi's github stats](https://github-readme-stats.vercel.app/api?username=MarigWeizhi&show_icons=true)](https://github.com/MarigWeizhi) |
+
 
 <!--
 **MarigWeizhi/MarigWeizhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
